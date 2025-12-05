@@ -1,0 +1,14 @@
+{
+  "name": "IR Sensor",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "pins": [
+    { "name": "VCC", "x": 10, "y": 90 },
+    { "name": "GND", "x": 40, "y": 90 },
+    { "name": "OUT", "x": 70, "y": 90 }
+  ],
+  "width": 80,
+  "height": 100,
+  "graphics": { "svg": "part.svg" },
+  "behavior": { "python": "behavior.py" }
+}
