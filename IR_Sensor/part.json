@@ -9,6 +9,10 @@
   ],
   "width": 80,
   "height": 100,
-  "graphics": { "svg": "part.svg" },
-  "behavior": { "python": "behavior.py" }
+  "graphics": {
+    "svg": "part.svg"
+  },
+  "behavior": {
+    "python": "behavior.py"
+  }
 }
